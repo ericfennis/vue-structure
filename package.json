@@ -1,7 +1,9 @@
 {
   "name": "vue-struc",
-  "version": "0.1.0",
-  "private": true,
+  "version": "0.5.0",
+  "description": "Vue Struc - A basic Vue project structure build with Vue CLI",
+  "author": "Eric Fennis <eric.fennis@gmail.com>",
+  "private": false,
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
@@ -10,13 +12,21 @@
   "dependencies": {
     "vue": "^2.5.17",
     "vue-router": "^3.0.1",
+    "vue-types": "^1.3.3",
     "vuex": "^3.0.1"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.0.5",
     "@vue/cli-plugin-eslint": "^3.0.5",
     "@vue/cli-service": "^3.0.5",
+    "@vue/eslint-config-airbnb": "^3.0.5",
     "@vue/eslint-config-prettier": "^3.0.5",
+    "eslint-plugin-html": "^4.0.1",
+    "eslint-friendly-formatter": "^4.0.1",
+    "eslint-plugin-vue-types": "0.2.0",
+    "node-sass": "^4.9.0",
+    "sass-loader": "^7.0.1",
+    "file-loader": "^2.0.0",
     "vue-template-compiler": "^2.5.17"
   }
 }
