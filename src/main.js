@@ -5,6 +5,7 @@ import store from './store';
 
 // Import Modules
 import './assets/styles/main.scss';
+import './components';
 import './directives';
 import './filters';
 import './mixins';
