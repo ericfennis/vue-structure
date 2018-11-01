@@ -3,7 +3,7 @@
 
 <template>
   <div>
-    <h3>Component</h3>
+    <h3 @click="hello()">Component</h3>
     <div>
       <icon name="vue"/>
     </div>

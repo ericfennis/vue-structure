@@ -1,4 +1,4 @@
-# vue-struc
+# vue-structure
 
 ## Project setup
 ```

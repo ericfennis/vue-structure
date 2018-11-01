@@ -1,6 +1,6 @@
 import Vue from 'vue';
 
-export default Vue.mixin('hello', {
+export default Vue.mixin({
   mounted() {
     this.hello();
   },
