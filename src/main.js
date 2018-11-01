@@ -5,10 +5,10 @@ import store from './store';
 
 // Import Modules
 import './assets/styles/main.scss';
-import './components';
-import './directives';
-import './filters';
-import './mixins';
+import './components/_globals';
+import './directives/_globals';
+import './filters/_globals';
+import './mixins/_globals';
 
 // Vue Init
 new Vue({

@@ -1,9 +1,5 @@
-// import exampleMixin from './example-mixin';
-
-/**
- *  Register mixins globally
- * */
+import exampleMixin from './example-mixin';
 
 export default {
-  // exampleMixin,
+  exampleMixin,
 };

@@ -1,5 +1,5 @@
-import Vue from 'vue';
+import ExampleComponent from './component';
 
-import Icon from './Icon';
-
-Vue.component('icon', Icon);
+export default {
+  ExampleComponent,
+};
