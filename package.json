@@ -1,6 +1,6 @@
 {
   "name": "vue-structure",
-  "version": "0.8.0",
+  "version": "0.9.0",
   "description": "Vue Structure - A basic Vue project structure build with Vue CLI",
   "author": "Eric Fennis <eric.fennis@gmail.com>",
   "private": false,
