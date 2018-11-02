@@ -1,5 +1,6 @@
-import ExampleComponent from './component';
+import ExampleComponent from './ExampleComponent';
 
-export default {
+/* eslint-disable */
+export {
   ExampleComponent,
 };

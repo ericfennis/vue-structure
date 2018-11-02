@@ -1,5 +1,5 @@
-<style src="./component.scss" lang="scss"></style>
-<script src="./component.js"></script>
+<style src="./ExampleComponent.scss" lang="scss"></style>
+<script src="./ExampleComponent.js"></script>
 
 <template>
   <div>
