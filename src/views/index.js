@@ -1,4 +1,8 @@
-import HomePage from './HomePage';
-import PageNotFound from './PageNotFound';
+import Home from './Home';
+import NotFound from './NotFound';
 
-export { HomePage, PageNotFound };
+/* eslint-disable */
+export { 
+  Home, 
+  NotFound 
+};
