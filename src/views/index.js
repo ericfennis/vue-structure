@@ -1,7 +1,7 @@
 import Home from './Home';
 import NotFound from './NotFound';
 
-/* eslint-disable */
+/* eslint-disable import/prefer-default-export,import,prettier/prettier */
 export { 
   Home, 
   NotFound 
