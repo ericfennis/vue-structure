@@ -1,2 +1,7 @@
-@import "./partials/base";
-@import "./vendor/vendor";
+@import "./partials/index";
+@import "./variables/index";
+
+@import "./modules/mixins";
+@import "./modules/functions";
+
+@import "./vendor/index";
