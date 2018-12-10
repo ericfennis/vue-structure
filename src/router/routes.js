@@ -15,10 +15,10 @@ export default [
   },
   {
     path: '*',
+    component: NotFound,
     name: 'Error 404',
     meta: {
       title: 'Page not Found',
     },
-    component: NotFound,
   },
 ];
