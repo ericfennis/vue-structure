@@ -4,12 +4,10 @@ module.exports = {
     loaderOptions: {
       sass: {
         data: `
-          @import "@/assets/styles/variables/_index.scss";
-          @import "@/assets/styles/modules/_functions.scss";
-          @import "@/assets/styles/modules/_mixins.scss";
+          @import "@/assets/styles/globals.scss";
         `,
-      }
-    }
+      },
+    },
   },
   chainWebpack: config => {
     // SVG Loader
