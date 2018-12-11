@@ -1,5 +1,7 @@
 // Partials
 @import './partials/reset';
+@import './partials/fonts';
+@import './partials/animations';
 
 @import './variables/breakpoints';
 @import './variables/colors';
@@ -8,9 +10,6 @@
 
 @import './modules/mixins';
 @import './modules/functions';
-
-@import './partials/responsive';
-@import './partials/animations';
 
 @import './layout/grid';
 @import './layout/form';
