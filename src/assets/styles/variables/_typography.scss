@@ -13,7 +13,7 @@ $font-color: #222;
 // Font Extender
 
 %base-style {
-  font: $font-weight $font-size/$line-height $font-family;
+  font: $font-weight #{$font-size}/#{$line-height} $font-family;
   color: $font-color;
 }
 
