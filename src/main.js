@@ -3,6 +3,9 @@ import App from './App/App.vue';
 import router from './router';
 import store from './store';
 
+// Import Config files
+import './config';
+
 // Import SCSS and Globals
 import './assets/styles/main.scss';
 import './components/_globals';
