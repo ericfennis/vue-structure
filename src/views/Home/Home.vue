@@ -2,7 +2,7 @@
 <script src="./Home.js"></script>
 
 <template>
-  <div>
+  <div class="home">
     <h1>Home</h1>
     <ExampleComponent />
   </div>
