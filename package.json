@@ -20,6 +20,7 @@
     "@vue/cli-service": "^3.0.5",
     "@vue/eslint-config-airbnb": "^3.0.5",
     "@vue/eslint-config-prettier": "^3.0.5",
+    "babel-plugin-transform-imports": "^1.5.1",
     "eslint-friendly-formatter": "^4.0.1",
     "eslint-plugin-html": "^4.0.1",
     "eslint-plugin-vue-types": "0.2.0",
