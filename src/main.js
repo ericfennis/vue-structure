@@ -3,7 +3,7 @@ import App from './App/App.vue';
 import router from './router';
 import store from './store';
 
-// Import Config files
+// Import config files
 import './config';
 
 // Import SCSS and Globals
