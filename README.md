@@ -1,10 +1,11 @@
-<p align=center><img width="410" src="https://raw.githubusercontent.com/ericfennis/vue-structure/4bff88983d079a288be98b0adcb5cc00e43cecc7/src/assets/images/vue-structure.png" alt="Vue Structure Logo"></p>
-
+<p align=center><img width="410" src="https://ericfennis.github.io/vue-cli-plugin-structure/logo-text.svg" alt="Vue Structure Logo"></p>
 
 # Vue Structure
-An project boilerplate for Vue CLI. Clean code structure to speed up your development time. No more wasting time to set-up your Vue projects.
+
+Vue structure offers a project structure for the average Vue project with Vuex and Vue router. It's made following the: [Airbnb Style Guide](https://github.com/airbnb/javascript) and [Vue Style Guide](https://vuejs.org/v2/style-guide/).
 
 ## Features
+
 * Router
 * Store (State Management)
 * Directives folder (with globals file)
@@ -14,6 +15,7 @@ An project boilerplate for Vue CLI. Clean code structure to speed up your develo
 * Asset folder for: fonts, icons, images and SCSS files.
 
 ## Packages
+
 * [Vue CLI](https://cli.vuejs.org/)
 * [Vuex](https://github.com/vuejs/vuex)
 * [Vue Router](https://github.com/vuejs/vue-router)
@@ -21,44 +23,53 @@ An project boilerplate for Vue CLI. Clean code structure to speed up your develo
 * [Prettier](https://prettier.io/)
 * [ESLint](https://eslint.org/)
 
-
 ## Getting Started
 
 Vue CLI REQUIRED! <br>
 [How to install Vue CLI](https://cli.vuejs.org/guide/installation.html)
 
 ### 1. Clone
-```
+
+``` sh
 git clone https://github.com/ericfennis/vue-structure my-project
 ```
+
 ### 2. Enter your new project folder
-```
+
+``` sh
 cd my-project
 ```
+
 ### 3. Install dependencies
-```
+
+``` sh
 yarn
 # or
 npm install
 ```
+
 ### 4. Start dev server
-```
+
+``` sh
 yarn serve
 # or
 npm run serve
 ```
 
 #### For building
-```
+
+```sh
 yarn build
 ```
 
 #### Run your tests
-```
+
+``` sh
 yarn test
 ```
 
 #### Lints and fixes files
-```
+
+``` sh
 yarn lint
 ```
